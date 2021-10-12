@@ -34,7 +34,7 @@ a {
 }
 #code {
     display: none;
-    font-size: 15px;
+    font-size: 16px;
 }
 #clock-box {
     position: absolute;
@@ -68,7 +68,7 @@ a {
     cursor: pointer;
 }
 #code {
-    width: 570px;
+    width: 600px;
     color: #3b6900;
     font-family: cursive;
 }
